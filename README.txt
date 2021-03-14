@@ -1,6 +1,4 @@
-To run the code, clone the repo from:
-
-https://github.com/otevet/CS-7641/tree/main/randomized_optimization
+To run the code, clone the repo from: https://github.com/otevet/randomized_optimization
 
 Install the following required Python 3 packages:
 pandas
